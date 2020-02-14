@@ -12,7 +12,7 @@ public class President extends PublicServant
 	@Override
 	public void serve()
 		{
-			System.out.println("I am serving as the President of my country and I am " + age);
+			System.out.println("I am serving as the President of my country and I am " + age + ". My salary is " + salary + " Dollars.");
 			
 		}
 	

@@ -15,7 +15,7 @@ public class Mayor extends PublicServant
 		@Override
 		public void serve()
 			{
-				System.out.println("I am serving as the Mayor of my city and I am " + age);
+				System.out.println("I am serving as the Mayor of my city and I am " + age + ". My salary is " + salary + " thousand dollars.");
 			}
 		
 		public void runCity()
